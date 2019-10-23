@@ -5,7 +5,9 @@ paulandre.b@outlook.com
 Master of Social Work (MSW), University of Toronto<br>
 H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University
 
+***
 ### Publications & Awards
+***
 
 Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
 Betito, P. (2017). SPI 10 Discharge Rates by Placement Type. CWRP Information Sheet #191E. Toronto, ON: Canadian Child Welfare Research Portal.  
@@ -20,12 +22,14 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 2016: Publication in Arc Poetry Magazine   
 2015: 2nd(/~200), FreeFall Magazine’s Annual Prose Contest  
 
+***
 ### Expertise & Skills
+***
 
 * Nosology of mental disorders according to ICD-10 and DSM-V criteria
 * Psychotherapeutic (e.g., CBT, Mindfulness, Narrative, SFBT) and psychopharmacological interventions
 * Verbal and nonverbal interviewing techniques
-* Social determinants of health and anti-oppressive practice (AOP) standards
+* Social determinants of health, anti-oppressive practice (AOP) and empowerment
 * Psychometric standards and protocols, including for valid electronic data capture, entry, and coding
 * Critical evaluation of research methodologies
 * Data science
@@ -34,12 +38,11 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 * UNIX system administration
 * Indicators of compromise (UNIX, iOS) and system hardening interventions
 
+***
 ### Courses
+***
 
-* Codecademy – Learn R Programming
-* Codecademy – Python 2
-* Codecademy – C++
-* Codecademy – SQL 
+* Codecademy – Learn R Programming, Python, C++, SQL 
 * DataCamp – Python for Data Science (IN-PROG.)
 * HarvardX: PH525.1x – Statistics and R (IN-PROG.)
 * Khan Academy – SQL (IN-PROG.)
