@@ -5,20 +5,20 @@
 
 ### Publications & Awards
 
-Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
+* Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
 Betito, P. (2017). SPI 10 Discharge Rates by Placement Type. CWRP Information Sheet #191E. Toronto, ON: Canadian Child Welfare Research Portal.
-Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
+* Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
 Betito, P. (2017). Recurrence Rates by Urgent Protection and Chronic Need. CWRP Information Sheet #190E. Toronto, ON: Canadian Child Welfare Research Portal.
-Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
+* Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
 Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Information Sheet #189E. Toronto, ON: Canadian Child Welfare Research Portal.
 
-2017: Rabbi Brickner Scholarship in Social Service (merit-based)
-2017: University of Toronto Fellowship (2/2) (merit-based)
-2016: University of Toronto Fellowship (1/2) (merit-based)
-2016: Publication in Arc Poetry Magazine; ‘Furious George’ 
-2015: 2nd(/~200) in FreeFall Magazine’s Annual Prose Contest, judged by John Vigna
-2014: Selected for Arc Poetry Magazine's poet-in-residence mentorship program
-2011: In-Course Scholarship (Wilfrid Laurier University)
+* 2017: Rabbi Brickner Scholarship in Social Service (merit-based)
+* 2017: University of Toronto Fellowship (2/2) (merit-based)
+* 2016: University of Toronto Fellowship (1/2) (merit-based)
+* 2016: Publication in Arc Poetry Magazine; ‘Furious George’ 
+* 2015: 2nd(/~200) in FreeFall Magazine’s Annual Prose Contest, judged by John Vigna
+* 2014: Selected for Arc Poetry Magazine's poet-in-residence mentorship program
+* 2011: In-Course Scholarship (Wilfrid Laurier University)
 
 ### Expertise & Skills
 
@@ -37,17 +37,17 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 
 ### Courses
 
-Codecademy – Learn R Programming
-Codecademy – Python 2
-Codecademy – C++
-Codecademy – SQL 
-DataCamp – Python for Data Science (IN-PROG.)
-HarvardX: PH525.1x – Statistics and R (IN-PROG.)
-Khan Academy – SQL (IN-PROG.)
-MIT 6.858 Computer Systems Security
-MIT 6.0002 – Introduction to Computational Thinking and Data Science 
-MIT 6.006 - Introduction to Algorithms (IN-PROG.)
-MIT RES.9.003 – Brains, Minds and Machines (IN-PROG.)
+* Codecademy – Learn R Programming
+* Codecademy – Python 2
+* Codecademy – C++
+* Codecademy – SQL 
+* DataCamp – Python for Data Science (IN-PROG.)
+* HarvardX: PH525.1x – Statistics and R (IN-PROG.)
+* Khan Academy – SQL (IN-PROG.)
+* MIT 6.858 Computer Systems Security
+* MIT 6.0002 – Introduction to Computational Thinking and Data Science 
+* MIT 6.006 - Introduction to Algorithms (IN-PROG.)
+* MIT RES.9.003 – Brains, Minds and Machines (IN-PROG.)
 
 ### Contact
 
