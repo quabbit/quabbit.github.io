@@ -1,11 +1,15 @@
 # CV\Paul-André Betito, MSW
 
-## Experience
+```markdown
+Publications & Awards
+
+
+```
 
 ```markdown
-*
-*
-*
+Expertise & Skills
+
+
 ```
 
 ### Contact
