@@ -45,8 +45,6 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 * Codecademy – Learn R Programming, Python, C++, SQL 
 * DataCamp – Python for Data Science (IN-PROG.)
 * HarvardX: PH525.1x – Statistics and R (IN-PROG.)
-* Khan Academy – SQL (IN-PROG.)
-* MIT 6.858 Computer Systems Security
+* Khan Academy – SQL, Algorithms (IN-PROG.)
+* MIT 6.858 - Computer Systems Security
 * MIT 6.0002 – Introduction to Computational Thinking and Data Science 
-* MIT 6.006 - Introduction to Algorithms (IN-PROG.)
-* MIT RES.9.003 – Brains, Minds and Machines (IN-PROG.)
