@@ -16,9 +16,7 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 2017: University of Toronto Fellowship (2/2) (merit-based)  
 2016: University of Toronto Fellowship (1/2) (merit-based)  
 2016: Publication in Arc Poetry Magazine   
-2015: 2nd(/~200) in FreeFall Magazine’s Annual Prose Contest, judged by John Vigna  
-2014: Selected for Arc Poetry Magazine's poet-in-residence mentorship program  
-2011: In-Course Scholarship (Wilfrid Laurier University)  
+2015: 2nd(/~200), FreeFall Magazine’s Annual Prose Contest  
 
 ### Expertise & Skills
 
