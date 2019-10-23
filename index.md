@@ -1,6 +1,4 @@
-# Paul-André Betito, MSW
-
-:wave::slightly_smiling_face:
+# Paul-André B., MSW
 
 Master of Social Work (MSW), University of Toronto<br>
 H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University
@@ -53,5 +51,3 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 ### Contact
 
 [Email](paulandre.b@outlook.com)
-
-:squirrel:
