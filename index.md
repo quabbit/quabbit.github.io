@@ -1,5 +1,7 @@
 # Paul-André B., MSW
 
+paulandre.b@outlook.com
+
 Master of Social Work (MSW), University of Toronto<br>
 H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University
 
@@ -45,7 +47,3 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 * MIT 6.0002 – Introduction to Computational Thinking and Data Science 
 * MIT 6.006 - Introduction to Algorithms (IN-PROG.)
 * MIT RES.9.003 – Brains, Minds and Machines (IN-PROG.)
-
-### Contact
-
-[Email](paulandre.b@outlook.com)
