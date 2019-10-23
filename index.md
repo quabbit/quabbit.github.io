@@ -1,5 +1,7 @@
 # Paul-André Betito, MSW
 
+:wave::slightly_smiling_face:
+
 Master of Social Work (MSW), University of Toronto<br>
 H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University
 
@@ -23,13 +25,13 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 ### Expertise & Skills
 
 * Nosology of mental disorders according to ICD-10 and DSM-V criteria
-* Psychotherapeutic (e.g., CBT, Mindfulness, SFBT) and psychopharmacological interventions
+* Psychotherapeutic (e.g., CBT, Mindfulness, Narrative, SFBT) and psychopharmacological interventions
 * Verbal and nonverbal interviewing techniques
 * Social determinants of health and anti-oppressive practice (AOP) standards
 * Psychometric standards and protocols, including for valid electronic data capture, entry, and coding
 * Critical evaluation of research methodologies
-* Research/statistical software/packages (e.g., SPSS, R)
-* Web development & Python
+* Data science
+* Web development
 * Linux, MacOS, and iOS internals/filesystem structures
 * UNIX system administration
 * Indicators of compromise (UNIX, iOS) and system hardening interventions
