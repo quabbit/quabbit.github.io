@@ -1,36 +1,35 @@
 # Paul-André Betito, MSW
 
-2018 – 2015: Master’s in Social Work (MSW), University of Toronto (GPA: A-) 
-2014 – 2010: H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University (GPA: 3.82/4.00)
+Master of Social Work (MSW), University of Toronto<br>
+H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University
 
 ### Publications & Awards
 
-* Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
-Betito, P. (2017). SPI 10 Discharge Rates by Placement Type. CWRP Information Sheet #191E. Toronto, ON: Canadian Child Welfare Research Portal.
-* Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
-Betito, P. (2017). Recurrence Rates by Urgent Protection and Chronic Need. CWRP Information Sheet #190E. Toronto, ON: Canadian Child Welfare Research Portal.
-* Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
-Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Information Sheet #189E. Toronto, ON: Canadian Child Welfare Research Portal.
+Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
+Betito, P. (2017). SPI 10 Discharge Rates by Placement Type. CWRP Information Sheet #191E. Toronto, ON: Canadian Child Welfare Research Portal.  
+Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
+Betito, P. (2017). Recurrence Rates by Urgent Protection and Chronic Need. CWRP Information Sheet #190E. Toronto, ON: Canadian Child Welfare Research Portal.  
+Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
+Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Information Sheet #189E. Toronto, ON: Canadian Child Welfare Research Portal.  
 
-* 2017: Rabbi Brickner Scholarship in Social Service (merit-based)
-* 2017: University of Toronto Fellowship (2/2) (merit-based)
-* 2016: University of Toronto Fellowship (1/2) (merit-based)
-* 2016: Publication in Arc Poetry Magazine; ‘Furious George’ 
-* 2015: 2nd(/~200) in FreeFall Magazine’s Annual Prose Contest, judged by John Vigna
-* 2014: Selected for Arc Poetry Magazine's poet-in-residence mentorship program
-* 2011: In-Course Scholarship (Wilfrid Laurier University)
+2017: Rabbi Brickner Scholarship in Social Service (merit-based)  
+2017: University of Toronto Fellowship (2/2) (merit-based)  
+2016: University of Toronto Fellowship (1/2) (merit-based)  
+2016: Publication in Arc Poetry Magazine   
+2015: 2nd(/~200) in FreeFall Magazine’s Annual Prose Contest, judged by John Vigna  
+2014: Selected for Arc Poetry Magazine's poet-in-residence mentorship program  
+2011: In-Course Scholarship (Wilfrid Laurier University)  
 
 ### Expertise & Skills
 
 * Nosology of mental disorders according to ICD-10 and DSM-V criteria
 * Psychotherapeutic (e.g., CBT, Mindfulness, SFBT) and psychopharmacological interventions
 * Verbal and nonverbal interviewing techniques
-* Salient legislation, e.g., the Personal Health Information Protection Act (PHIPA); the Child, Youth and Family Services Act; etc.
 * Social determinants of health and anti-oppressive practice (AOP) standards
 * Psychometric standards and protocols, including for valid electronic data capture, entry, and coding
 * Critical evaluation of research methodologies
 * Research/statistical software/packages (e.g., SPSS, R)
-* Web development (HTML, CSS) & Python
+* Web development & Python
 * Linux, MacOS, and iOS internals/filesystem structures
 * UNIX system administration
 * Indicators of compromise (UNIX, iOS) and system hardening interventions
@@ -51,4 +50,4 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 
 ### Contact
 
-paulandre.b@outlook.com
+[Email](paulandre.b@outlook.com)
