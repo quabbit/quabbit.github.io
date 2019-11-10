@@ -1,4 +1,4 @@
-# Paul-André B., MSW
+# Paul-André Betito, MSW
 
 paulandre.b@outlook.com
 
@@ -29,7 +29,7 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 * Nosology of mental disorders according to ICD-10 and DSM-V criteria
 * Psychotherapeutic (e.g., CBT, Mindfulness, Narrative, SFBT) and psychopharmacological interventions
 * Verbal and nonverbal interviewing techniques
-* Social determinants of health, anti-oppressive practice (AOP) and empowerment
+* Social determinants of health, anti-oppressive practice (AOP), and client empowerment
 * Psychometric standards and protocols, including for valid electronic data capture, entry, and coding
 * Critical evaluation of research methodologies
 * Data science
@@ -37,14 +37,14 @@ Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Informatio
 * Linux, MacOS, and iOS internals/filesystem structures
 * UNIX system administration
 * Indicators of compromise (UNIX, iOS) and system hardening interventions
+* Fluent bilingualism (French and English), working Spanish proficiency 
 
 ***
 ### Courses
 ***
 
-* Codecademy – Learn R Programming, Python, C++, SQL 
-* DataCamp – Python for Data Science (IN-PROG.)
-* HarvardX: PH525.1x – Statistics and R (IN-PROG.)
-* Khan Academy – SQL, Algorithms (IN-PROG.)
-* MIT 6.858 - Computer Systems Security
-* MIT 6.0002 – Introduction to Computational Thinking and Data Science 
+Codecademy – Learn R Programming, Python, C++, SQL
+DataCamp – SQL, R for Data Science, Python for Data Science and Machine Learning
+MIT 6.858 – Computer Systems Security
+MIT 6.0002 – Introduction to Computational Thinking and Data Science
+MIT 6.034 – Artificial Intelligence (IN-PROG.)
