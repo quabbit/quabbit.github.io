@@ -1,6 +1,6 @@
 # Paul-André Betito, MSW
 
-paulandre.b@outlook.com
+[Email](paulandre.b@outlook.com)
 
 Master of Social Work (MSW), University of Toronto<br>
 H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University
@@ -16,11 +16,11 @@ Betito, P. (2017). Recurrence Rates by Urgent Protection and Chronic Need. CWRP 
 Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
 Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Information Sheet #189E. Toronto, ON: Canadian Child Welfare Research Portal.  
 
-Rabbi Brickner Scholarship in Social Service, merit-based (2017)
-University of Toronto Fellowship, merit-based (2017)
-University of Toronto Fellowship, merit-based (2016)
-Publication in Arc Poetry Magazine (2016)
-FreeFall Magazine’s Annual Prose Contest, judged by John Vigna (Second Place, 2015) 
+Rabbi Brickner Scholarship in Social Service, merit-based (2017)  
+University of Toronto Fellowship, merit-based (2017)  
+University of Toronto Fellowship, merit-based (2016)  
+Publication in Arc Poetry Magazine (2016)  
+FreeFall Magazine’s Annual Prose Contest, judged by John Vigna (Second Place, 2015)   
 
 ***
 ### Expertise & Skills
