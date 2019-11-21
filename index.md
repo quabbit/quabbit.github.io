@@ -1,6 +1,6 @@
 # Paul-André Betito, MSW
 
-[Email](mailto:paulandre.b@outlook.com)
+[Email](mailto:paulandreb@tutanota.com)
 
 Master of Social Work (MSW), University of Toronto<br>
 H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University
