@@ -55,5 +55,5 @@ MIT 6.0002 – Introduction to Computational Thinking and Data Science
 MIT 6.034 – Artificial Intelligence (IN-PROG.)  
 MIT 7.91J – Foundations of Computational and Systems Biology (IN-PROG.) 
 MIT 7.91J – Foundations of Computational and Systems Biology (IN-PROG.)
-MITx: 3.091x - Introduction to Solid State Chemistry - Mar. 4, 2020
+MITx: 3.091x - Introduction to Solid State Chemistry - Mar. 4, 2020  
 HarvardX MCB63x - Principles of Biochemistry - Mar. 4, 2020
