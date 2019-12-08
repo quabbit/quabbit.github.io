@@ -10,11 +10,11 @@ H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurie
 ***
 
 Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
-Betito, P. (2017). SPI 10 Discharge Rates by Placement Type. CWRP Information Sheet #191E. Toronto, ON: Canadian Child Welfare Research Portal.  
+Betito, P. (2017). SPI 10 Discharge Rates by Placement Type. CWRP Information Sheet #191E. Toronto, ON: Canadian Child Welfare Research Portal.    
 Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
-Betito, P. (2017). Recurrence Rates by Urgent Protection and Chronic Need. CWRP Information Sheet #190E. Toronto, ON: Canadian Child Welfare Research Portal.  
+Betito, P. (2017). Recurrence Rates by Urgent Protection and Chronic Need. CWRP Information Sheet #190E. Toronto, ON: Canadian Child Welfare Research Portal.    
 Fallon, B., Trocmé, N., Black, T., Ekins, A., O’Connor, C., & 
-Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Information Sheet #189E. Toronto, ON: Canadian Child Welfare Research Portal.  
+Betito, P. (2017). Recurrence Rates by Child Protection Concern. CWRP Information Sheet #189E. Toronto, ON: Canadian Child Welfare Research Portal.    
 
 Rabbi Brickner Scholarship in Social Service, merit-based (2017)  
 University of Toronto Fellowship, merit-based (2017)  
@@ -26,7 +26,7 @@ FreeFall Magazine’s Annual Prose Contest, judged by John Vigna (Second Place, 
 ### Expertise & Skills
 ***
 
-Nosology and diagnosis of mental disorders according to ICD-10 and DSM-V criteria  
+Nosology and diagnosis of mental disorders according to ICD-10, DSM-V, and psychoanalytic/psychodynamic criteria  
 Psychotherapeutic (e.g., CBT, Mindfulness, Narrative, SFBT) and psychopharmacological interventions  
 Verbal and nonverbal interviewing techniques  
 Salient legislation, e.g., Ontario Mental Health Act; Substitute Decisions Act; Personal Health Information Protection Act (PHIPA); the Child, Youth and Family Services Act; etc.  
