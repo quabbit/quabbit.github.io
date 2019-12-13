@@ -52,7 +52,6 @@ Codecademy – Learn R Programming, Python, C++, SQL
 DataCamp – Intermediate SQL, R for Data Science, Shell/Git for Data Science, Python for Data Science and Machine Learning, R/Python for Text Analysis (IN-PROG.)  
 MIT 6.858 – Computer Systems Security  
 MIT 6.0002 – Introduction to Computational Thinking and Data Science  
-MIT 6.034 – Artificial Intelligence (IN-PROG.)  
-MIT 7.91J – Foundations of Computational and Systems Biology (IN-PROG.)  
-MITx: 3.091x - Introduction to Solid State Chemistry - Mar. 4, 2020  
-HarvardX MCB63x - Principles of Biochemistry - Mar. 4, 2020
+MIT 6.034 – Artificial Intelligence  
+MIT 7.91J – Foundations of Computational and Systems Biology  
+MITx, MIT, Khan Academy - Chemistry  
