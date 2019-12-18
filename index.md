@@ -55,3 +55,4 @@ MIT 6.0002 – Introduction to Computational Thinking and Data Science
 MIT 6.034 – Artificial Intelligence  
 MIT 7.91J – Foundations of Computational and Systems Biology  
 MITx, MIT, Khan Academy - Chemistry  
+MIT 6.006 - Introduction to Algorithms 
