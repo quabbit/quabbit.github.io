@@ -33,11 +33,11 @@ Fluent bilingualism (French and English), working Spanish proficiency<br>
 ### Courses
 ***
 
-Codecademy – Learn R Programming, Python, C++, SQL<br>
-DataCamp – Intermediate SQL, R for Data Science, Shell and Git for Data Science, Python for Data Science and Machine Learning, R and Python for Text Analysis<br>
-MIT 6.858 – Computer Systems Security<br>
-MIT 6.0002 – Introduction to Computational Thinking and Data Science<br>
-MIT 6.034 – Artificial Intelligence<br>
-MIT 7.91J – Foundations of Computational and Systems Biology<br>
-MITx, MIT, Khan Academy - Chemistry<br>
-MIT 6.006 - Introduction to Algorithms<br>
+<b>Codecademy</b>, Learn R Programming, Python, C++, SQL<br>
+<b>DataCamp</b>, Intermediate SQL, R for Data Science, Shell and Git for Data Science, Python for Data Science and Machine Learning, R and Python for Text Analysis<br>
+<b>MIT 6.858</b>, Computer Systems Security<br>
+<b>MIT 6.0002</b>, Introduction to Computational Thinking and Data Science<br>
+<b>MIT 6.034</b>, Artificial Intelligence<br>
+<b>MIT 7.91J</b>, Foundations of Computational and Systems Biology<br>
+<b>MITx, MIT</b>, Khan Academy, Chemistry<br>
+<b>MIT 6.006</b>, Introduction to Algorithms<br>
