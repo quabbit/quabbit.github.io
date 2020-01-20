@@ -39,5 +39,5 @@ Fluent bilingualism (French and English), working Spanish proficiency<br>
 <b>MIT 6.0002</b>, Introduction to Computational Thinking and Data Science<br>
 <b>MIT 6.034</b>, Artificial Intelligence<br>
 <b>MIT 7.91J</b>, Foundations of Computational and Systems Biology<br>
-<b>MITx, MIT</b>, Khan Academy, Chemistry<br>
+<b>MITx, MIT, Khan Academy</b>, Chemistry<br>
 <b>MIT 6.006</b>, Introduction to Algorithms<br>
