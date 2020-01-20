@@ -2,8 +2,8 @@
 
 [Email](mailto:paulandreb@tutanota.com)
 
-Master of Social Work (MSW), Health and Mental Health, University of Toronto<br>
-H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurier University  
+Master of Social Work, Health and Mental Health, University of Toronto<br>
+H.BA with Distinction in Psychology, Research Specialist, Wilfrid Laurier University  
 
 ***
 ### Expertise & Skills
