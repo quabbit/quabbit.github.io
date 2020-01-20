@@ -12,7 +12,7 @@ H.BA with Distinction in Psychology (Research Specialist stream), Wilfrid Laurie
 Nosology and diagnosis of mental disorders according to ICD-10, DSM-V, and psychoanalytic and psychodynamic criteria  
 Psychotherapeutic (e.g., CBT, Mindfulness, Narrative, SFBT) and psychopharmacological interventions  
 Verbal and nonverbal interviewing techniques  
-Salient legislation, e.g., Ontario Mental Health Act; Substitute Decisions Act; Personal Health Information Protection Act (PHIPA); the Child, Youth and Family Services Act; etc.  
+Salient legislation, e.g., the Ontario Mental Health Act; the Substitute Decisions Act; the Personal Health Information Protection Act (PHIPA); the Child, Youth and Family Services Act; etc.  
 Social determinants of health, anti-oppressive practice (AOP) standards, and client empowerment   
 Psychometric standards and protocols, including for valid electronic data capture, entry, and coding  
 Clinical rating scales (e.g., HAMD, YMRS, BDI, BPRS)  
