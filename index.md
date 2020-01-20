@@ -1,4 +1,4 @@
-# Paul-André Betito, MSW
+# Paul-Andre Betito, MSW
 
 [Email](mailto:paulandreb@tutanota.com)
 
@@ -18,7 +18,8 @@ Psychometric standards and protocols, including for valid electronic data captur
 Clinical rating scales (e.g., HAMD, YMRS, BDI, BPRS)  
 Research ethics and protocols (e.g., TCPS)  
 Critical evaluation of research methodologies  
-Research/statistical software/packages (e.g., SPSS, R) and reference management softwares  
+Research and statistical packages (e.g., SPSS, R)
+Citation management  
 Data science and visualization (e.g., ggplot2)  
 Web development (HTML, CSS) and Python  
 Linux, MacOS, and iOS internals/filesystem structures  
