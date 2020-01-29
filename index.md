@@ -6,7 +6,7 @@ Master of Social Work, Health and Mental Health, University of Toronto<br>
 H.BA with Distinction in Psychology, Research Specialist, Wilfrid Laurier University
 
 ***
-### SKILLS, KNOWLEDGE
+#### SKILLS, KNOWLEDGE
 ***
 
 Nosology and diagnosis of mental disorders according to ICD-10, DSM-V, and psychoanalytic and psychodynamic criteria<br>
@@ -31,7 +31,7 @@ Working proficiency with the Adobe Suite<br>
 Fluent bilingualism and working Spanish proficiency<br>
 
 ***
-### COURSES
+#### COURSES
 ***
 
 <b>Codecademy</b>, Learn R Programming, Python, C++, SQL<br>
