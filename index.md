@@ -1,6 +1,7 @@
 # Paul-Andre Betito, MSW
 
 [Email](mailto:paulandreb@tutanota.com)
+[Phone](callto:+16478066736)
 
 Master of Social Work, Health and Mental Health, University of Toronto<br>
 H.BA with Distinction in Psychology, Research Specialist, Wilfrid Laurier University
@@ -16,11 +17,11 @@ Verbal and nonverbal interviewing techniques<br>
 Knowledge of relevant legislation such as the Ontario Mental Health Act, the Substitute Decisions Act, the Personal Health Information Protection Act, and the Child, Youth and Family Services Act<br>
 Social determinants of health, anti-oppressive, empowerment, and feminist practice standards<br>
 Psychometric standards and protocols, including for valid electronic data capture, entry, and coding<br>
-Clinical rating scales such as HAMD, YMRS, BDI, BPRS<br>
+Clinical rating scales such as the HAMD, YMRS, BDI, and BPRS<br>
 Research ethics and protocols such as TCPS<br>
 Critical evaluation of research methodologies<br>
 Research and statistical packages such as SPSS and R<br>
-Neuroscience<br>
+Neuroscience and cognition<br>
 Data science and visualization (e.g., ggplot2)<br>
 Web development and Python<br>
 Linux, MacOS, and iOS internals and filesystem structures<br>
@@ -42,3 +43,6 @@ Fluent bilingualism and working Spanish proficiency<br>
 <b>MIT 7.91J</b>, Foundations of Computational and Systems Biology<br>
 <b>MITx, MIT, Khan Academy</b>, Chemistry<br>
 <b>MIT 6.006</b>, Introduction to Algorithms<br>
+<b>MIT RES.9-003</b>, Brains, Minds and Machines<br>
+<b>MIT 7.01SC</b>, Fundamentals of Biology<br>
+<b>MIT 18.06SC</b>, Linear Algebra
