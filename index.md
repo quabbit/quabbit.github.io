@@ -1,6 +1,6 @@
 # Paul-Andre Betito, MSW
 
-[Email](mailto:paulandreb@tutanota.com)
+[Email](mailto:paulandreb@tutanota.com)<br>
 [Phone](tel:+16478066736)
 
 Master of Social Work, Health and Mental Health, University of Toronto<br>
