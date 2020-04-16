@@ -43,9 +43,9 @@ Fluent bilingualism and working Spanish proficiency<br>
 <b>MIT 6.0002</b>, Introduction to Computational Thinking and Data Science<br>
 <b>MIT 6.034</b>, Artificial Intelligence<br>
 <b>MIT 7.91J</b>, Foundations of Computational and Systems Biology<br>
-<b>MITx, MIT, Khan Academy</b>, Chemistry<br>
+<b>MITx, MIT, Khan Academy</b>, Chemistry, <b>IN-PROGRESS</b><br>
 <b>MIT 6.006</b>, Introduction to Algorithms<br>
 <b>MIT RES.9-003</b>, Brains, Minds and Machines<br>
 <b>MIT 7.01SC</b>, Fundamentals of Biology<br>
-<b>MIT 18.06SC</b>, Linear Algebra, IN-PROGRESS<br>
-<br>UC Davis Academics</b>, Fundamental Algorithms in Bioinformatics, <b>IN-PROGRESS</b><br>
+<b>MIT 18.06SC</b>, Linear Algebra, <b>IN-PROGRESS</b><br>
+<b>UC Davis Academics</b>, Fundamental Algorithms in Bioinformatics, <b>IN-PROGRESS</b><br>
