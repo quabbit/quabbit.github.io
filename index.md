@@ -3,8 +3,8 @@
 [Email](mailto:paulandreb@tutanota.com)<br>
 [Phone](tel:+16478066736)
 
-Master of Social Work, Health and Mental Health, University of Toronto<br>
-H.BA with Distinction in Psychology, Research Specialist, Wilfrid Laurier University
+<b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
+<b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
 ***
 #### SKILLS, KNOWLEDGE
@@ -35,6 +35,8 @@ Fluent bilingualism and working Spanish proficiency<br>
 #### COURSES
 ***
 
+<b>Since September, 2019:</b><br>
+
 <b>Codecademy</b>, Learn R Programming, Python, C++, SQL<br>
 <b>DataCamp</b>, Intermediate SQL, R for Data Science, Shell and Git for Data Science, Python for Data Science and Machine Learning, R and Python for Text Analysis<br>
 <b>MIT 6.858</b>, Computer Systems Security<br>
@@ -45,4 +47,5 @@ Fluent bilingualism and working Spanish proficiency<br>
 <b>MIT 6.006</b>, Introduction to Algorithms<br>
 <b>MIT RES.9-003</b>, Brains, Minds and Machines<br>
 <b>MIT 7.01SC</b>, Fundamentals of Biology<br>
-<b>MIT 18.06SC</b>, Linear Algebra, IN-PROGRESS
+<b>MIT 18.06SC</b>, Linear Algebra, IN-PROGRESS<br>
+<br>UC Davis Academics</b>, Fundamental Algorithms in Bioinformatics, <b>IN-PROGRESS</b><br>
