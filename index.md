@@ -1,4 +1,6 @@
-# Paul-Andre Betito, MSW
+# Paul-Andre Betito, MSW 
+
+[LinkedIn](https://www.linkedin.com/in/paulandreb/) | [Instagram](https://www.instagram.com/paulandreb_/)
 
 [Email](mailto:paulandreb@tutanota.com)<br>
 [Phone](tel:+16478066736)
