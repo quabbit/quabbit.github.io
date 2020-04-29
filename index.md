@@ -2,8 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/paulandreb/) | [Instagram](https://www.instagram.com/paulandreb_/)
 
-[Email](mailto:paulandreb@tutanota.com)<br>
-[Phone](tel:+16478066736)
+[Email](mailto:paulandreb@tutanota.com) | [Phone](tel:+16478066736)
 
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
