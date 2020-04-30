@@ -48,5 +48,3 @@ Fluent bilingualism and working Spanish proficiency<br>
 <b>MIT 6.006</b>, Introduction to Algorithms<br>
 <b>MIT RES.9-003</b>, Brains, Minds and Machines<br>
 <b>MIT 7.01SC</b>, Fundamentals of Biology<br>
-<b>MIT 18.06SC</b>, Linear Algebra, <b>IN-PROGRESS</b><br>
-<b>UC Davis Academics</b>, Fundamental Algorithms in Bioinformatics, <b>IN-PROGRESS</b><br>
