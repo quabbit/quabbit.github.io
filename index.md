@@ -11,9 +11,9 @@
 #### PISSANT - UPCOMING NOVEL EXCERPT
 ***
 
-&nbsp<i>"I could request a bigger placard for a level of specificity, for the demand, but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset. The sort you have punctuating reruns and stickers peeling from vans. Those hardly peel cleanly, but need not necessarily.  Take the saltatorial arms, legs to leap backwards, away in time, and push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the lines, points. But they come back, which defeats the purpose.<br>
-&nbspJEAZINXSKY (BLOWIN’ STEAM): one, one <br>
-&nbspone, one	&nbspUtter boobery is the salaried life by-and-by, and no divinatory leaf had it coming. So why the rush.<br>
+&nbsp <i>"I could request a bigger placard for a level of specificity, for the demand, but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset. The sort you have punctuating reruns and stickers peeling from vans. Those hardly peel cleanly, but need not necessarily.  Take the saltatorial arms, legs to leap backwards, away in time, and push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the lines, points. But they come back, which defeats the purpose.<br>
+&nbsp JEAZINXSKY (BLOWIN’ STEAM): one, one <br>
+&nbsp one, one	&nbspUtter boobery is the salaried life by-and-by, and no divinatory leaf had it coming. So why the rush.<br>
 
 .<br>
 &nbsp	.<br>
@@ -23,12 +23,12 @@
 &nbsp	.<br>
 .<br>
 
-&nbspI think I get it. HUM. Why the effrontery of chucking a wildcard in the way of a system and calling it a life like a night. Nearly as spit-stupid as interloping onto political territory with an idea of where it ought to be. Stay back.
+&nbsp I think I get it. HUM. Why the effrontery of chucking a wildcard in the way of a system and calling it a life like a night. Nearly as spit-stupid as interloping onto political territory with an idea of where it ought to be. Stay back.
 The problem is fragility. Wound indefinitely together and constitutive of corollaries, a striking, inimitable, lobular interdependence. Clad but vitiated by its own structure. Grids are pervious in and around the pistons; hence grid-ness, that quality, and dependence, that need. A grid would not exist without tender upkeep and the general miracle of technicky Johnstons whose granitic, alienated scuttle twangs some latently termitophilic chord deep within me, feels. Bet they pinch loaves without warring with what it all means in the grand scheme. Bet they have not a second for the useless sound of it. Get tested by the sound of it. Mere cilia from the throttle. I think respect to it: Always a directional brim furnishing hints of what was, could become, one end or the next. Imminence as a slippery flue accompanied by the eternal lament of some tradition to lace the gallery. I say on the whole, for the scene of mind, for what its worth, fill it with a molten product. Nobody should have what it is. Let shells spin their pipings and into coiled, immortal parts as looking spindled together in last stops like ABSTRACT, OUTSTRETCHED. A piece of coral. Holy.<br>
-&nbspJEAZINXSKY (PER DE BOOK OF DUBERONOMY): Maui Waui?<br>
-&nbspME: No. A token reminder.<br>
-&nbspJEAZINXSKY: Maui Bubble Gift.<br>
-&nbspME: A tacky reminder to stick a fork in it, or else socket."</i><br>
+&nbsp JEAZINXSKY (PER DE BOOK OF DUBERONOMY): Maui Waui?<br>
+&nbsp ME: No. A token reminder.<br>
+&nbsp JEAZINXSKY: Maui Bubble Gift.<br>
+&nbsp ME: A tacky reminder to stick a fork in it, or else socket."</i><br>
 
 ***
 #### SKILLS, KNOWLEDGE
