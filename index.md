@@ -20,7 +20,7 @@
 &nbsp;But mostly for the most part bloggers, sectarianism, pills rattling in backpacks, and tallowy skins the impression of bok choy.<br>
 &nbsp; JEAZINXSKY: Collard greens. Have a cabbage patch.<br>
 &nbsp; ME: Not seen since months ago, as if weed. Tooken.<br>
-&nbsp; DR. PPG13: Opinions, asses. Choose.<br>
+&nbsp; DR. PPG13: Opinions, butts. Choose.<br>
 &nbsp; ME: Everybody either investigates, idolizes, passively receives, tears apart, or eats. I think they are insufferable. Depends on the pants. That was that.<br>
 &nbsp; RAINBOW-PUPA: REBUFFED.<br>
 &nbsp; ME: Nobody wants it hard. It is all, Bake a cake and eat it late at night. Pure, frosted aggrievement. Fairy position sounds like conspiracy.<br>
