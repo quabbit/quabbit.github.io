@@ -1,14 +1,12 @@
 # Paul-Andre Betito, MSW 
 
-[LinkedIn](https://www.linkedin.com/in/paulandreb/) | [Instagram](https://www.instagram.com/paulandreb_/)
-
-[Email](mailto:paulandreb@tutanota.com) | [Phone](tel:+16478066736)
+[LinkedIn](https://www.linkedin.com/in/paulandreb/) | [Instagram](https://www.instagram.com/paulandreb_/) | [Email](mailto:paulandreb@tutanota.com)<br>
 
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
 ***
-##### If you are a literary agent interested in representation, please contact me at the phone number or email address above!
+##### If you are a literary agent interested in representation, please contact me!
 
 
 ***
@@ -77,6 +75,7 @@ Fluent bilingualism and working Spanish proficiency<br>
 <b>MIT RES.9-003</b>, Brains, Minds and Machines<br>
 <b>MIT 7.01SC</b>, Fundamentals of Biology<br>
 <b>Stanford Wu Tsai Neurosciences Institute Series</b>, IN-PROGRESS<br>
+<b>MIT 9.40</b>, Intro to Neural Computation<br>
 
 ***
 ##### *[Br'er rabbit](https://www.britannica.com/topic/Brer-Rabbit)*
