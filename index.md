@@ -1,4 +1,4 @@
-# Paul-Andre Betito, MSW 
+# Paul-Andre Betito 
 
 [LinkedIn](https://www.linkedin.com/in/paulandreb/) | [Instagram](https://www.instagram.com/paulandreb_/) | [Email](mailto:paulandreb@tutanota.com)<br>
 
@@ -6,7 +6,7 @@
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
 ***
-##### If you are a literary agent interested in representation, please contact me!
+##### If you are a literary agent interested in representation, I encourage you to contact me.
 
 
 ***
