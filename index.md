@@ -1,6 +1,6 @@
 # Paul-Andre Betito 
 
-[Email](mailto:paulandreb@tutanota.com) | [LinkedIn](https://www.linkedin.com/in/paulandreb/) | [Instagram](https://www.instagram.com/paulandreb_/) | [DataCamp](https://www.datacamp.com/profile/pabdata) | [ORCiD](https://orcid.org/0000-0003-0597-9177)<br>
+[Email](mailto:paulandreb@tutanota.com) | [LinkedIn](https://www.linkedin.com/in/paulandreb/) | [Instagram](https://www.instagram.com/paulandreb_/) | [DataCamp](https://www.datacamp.com/paulandreb) | [Duolingo](https://www.duolingo.com/paulandre.b) | [ORCiD](https://orcid.org/0000-0003-0597-9177)<br>
 
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
