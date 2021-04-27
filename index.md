@@ -1,3 +1,5 @@
+<head><link rel="stylesheet" href="style.css"></head>
+
 # Paul-Andre Betito 
 
 [Email](mailto:paulandreb@tutanota.com) | [LinkedIn](https://www.linkedin.com/in/paulandreb/) | [Instagram](https://www.instagram.com/paulandreb_/) | [DataCamp](https://www.datacamp.com/profile/paulandreb) | [Duolingo](https://www.duolingo.com/paulandre.b) | [ORCiD](https://orcid.org/0000-0003-0597-9177)<br>
