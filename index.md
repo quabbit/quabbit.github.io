@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # P. A. E. (Paul) Betito 
 
 [Email](mailto:paulandreb@tutanota.com) | [LinkedIn](https://www.linkedin.com/in/paulandreb/) | [DataCamp](https://www.datacamp.com/profile/paulandreb) | [Duolingo](https://www.duolingo.com/paulandre.b) | [ORCiD](https://orcid.org/0000-0003-0597-9177)<br>
@@ -5,7 +7,9 @@
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
-[Assessment tools (UNDER CONSTRUCTION)](https://quabbit.github.io/tools)
+***
+[I have designed numerous health assessment tools primarily for low-income or urban medicine which can be freely utilized with attribution.](https://quabbit.github.io/tools)
+***
 
 ***
 ##### If you are a literary agent interested in representation, I encourage you to contact me.
@@ -25,7 +29,7 @@
 &nbsp;	.<br>
 .</i><br>
 
-<i>&nbsp; I think I get it. HUM. Why the effrontery of chucking a wildcard the system way calling it a life like a night. That does not stand up. Nearly as spit-stupid as interloping onto political territory with an idea of where it ought to be. Stay back the line.<br>
+<i>&nbsp; HUM. Why the effrontery chucking wildcard the system way calling life like a night. That does not stand up. Nearly as spit-stupid as interloping political territory with an idea of where it ought to be. Stay back the line.<br>
 &nbsp; The problem is fragility. Wound together indefinitely and constitutive of corollaries; a striking, inimitable, lobular interdependence. Clad but vitiated by its own structure. Grids are pervious in and around the pistons; hence grid-ness, that quality, and dependence, that need. A grid would not exist without tender upkeep and the miracle of technicky Johnstons whose granitic, alienated scuttle twangs some latently termitophilic chord deep within me, how that feels. Bet they pinch loaves without warring with what it all means in the grand scheme. Bet they have not a second for the useless sound of it. Get tested by the sound of it. Mere cilia from the throttle.<br> 
 &nbsp; I think respect to it; directional brim furnishing hints of what was, could become, one end or the next. Imminence as a slippery flue accompanied by the eternal lament of some tradition to lace the gallery. I say on the whole, for the scene of mind--what its worth--fill it with molten product. Who should have what it is. Let shells spin their pipings into coiled, immortal parts as looking spindled together in last stops like ABSTRACT, OUTSTRETCHED. A piece of coral. Holy.<br>
 &nbsp; JEAZINXSKY (PER DE BOOK OF DUBERONOMY): Maui Waui?<br>
