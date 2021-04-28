@@ -7,17 +7,19 @@
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
+[Assessment Tools](https://quabbit.github.io/tools)
+
 ***
 ##### If you are a literary agent interested in representation, I encourage you to contact me.
-
+***
 
 ***
 #### PISSANT - NOVEL EXCERPT(S)
 ***
 
-<i>&nbsp; "I could request a bigger placard for a level of specificity, for the demand, but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset. The sort you have punctuating reruns and stickers peeling from vans. Those hardly peel cleanly, but need not necessarily.  Take the saltatorial arms, legs to leap backwards, away in time, and push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the lines, points. But they come back, which defeats the purpose.<br>
+<i>&nbsp; "I could request a bigger placard for levels of specificity--for the demand--but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset; the sort you have punctuating reruns and peeling stickers, which hardly peel cleanly, but need not necessarily. Take the saltatorial arms and legs to leap backwards away in time, and to push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the lines, points. But they come back, which defeats the purpose.<br>
 &nbsp; JEAZINXSKY (BLOWIN’ STEAM): one, one <br>
-&nbsp; one, one	&nbsp; Utter boobery is the salaried life by-and-by, and no divinatory leaf had it coming. So why the rush.<br></i>
+&nbsp; one, one	&nbsp; Utter boobery by-and-by, and no divinatory leaf had it coming. So why the rush.<br></i>
 
 <i>.<br>
 &nbsp;	.<br>
@@ -25,16 +27,16 @@
 &nbsp;	.<br>
 .</i><br>
 
-<i>&nbsp; I think I get it. HUM. Why the effrontery of chucking a wildcard in the way of a system, calling it a life like a night. That does not stand up. Nearly as spit-stupid as interloping onto political territory with an idea of where it ought to be. Stay back.<br>
-&nbsp; The problem is fragility. Wound together indefinitely and constitutive of corollaries; a striking, inimitable, lobular interdependence. Clad but vitiated by its own structure. Grids are pervious in and around the pistons; hence grid-ness, that quality, and dependence, that need. A grid would not exist without tender upkeep and the general miracle of technicky Johnstons whose granitic, alienated scuttle twangs some latently termitophilic chord deep within me, how that feels. Bet they pinch loaves without warring with what it all means in the grand scheme. Bet they have not a second for the useless sound of it. Get tested by the sound of it. Mere cilia from the throttle.<br> 
-&nbsp; I think respect to it: Always a directional brim furnishing hints of what was, could become, one end or the next. Imminence as a slippery flue accompanied by the eternal lament of some tradition to lace the gallery. I say on the whole, for the scene of mind, for what its worth, fill it with a molten product. Nobody should have what it is. Let shells spin their pipings and into coiled, immortal parts as looking spindled together in last stops like ABSTRACT, OUTSTRETCHED. A piece of coral. Holy.<br>
+<i>&nbsp; I think I get it. HUM. Why the effrontery of chucking a wildcard the system way calling it a life like a night. That does not stand up. Nearly as spit-stupid as interloping onto political territory with an idea of where it ought to be. Stay back the line.<br>
+&nbsp; The problem is fragility. Wound together indefinitely and constitutive of corollaries; a striking, inimitable, lobular interdependence. Clad but vitiated by its own structure. Grids are pervious in and around the pistons; hence grid-ness, that quality, and dependence, that need. A grid would not exist without tender upkeep and the miracle of technicky Johnstons whose granitic, alienated scuttle twangs some latently termitophilic chord deep within me, how that feels. Bet they pinch loaves without warring with what it all means in the grand scheme. Bet they have not a second for the useless sound of it. Get tested by the sound of it. Mere cilia from the throttle.<br> 
+&nbsp; I think respect to it; directional brim furnishing hints of what was, could become, one end or the next. Imminence as a slippery flue accompanied by the eternal lament of some tradition to lace the gallery. I say on the whole, for the scene of mind--what its worth--fill it with molten product. Who should have what it is. Let shells spin their pipings into coiled, immortal parts as looking spindled together in last stops like ABSTRACT, OUTSTRETCHED. A piece of coral. Holy.<br>
 &nbsp; JEAZINXSKY (PER DE BOOK OF DUBERONOMY): Maui Waui?<br>
 &nbsp; ME: No. A token reminder.<br>
 &nbsp; JEAZINXSKY: Maui Bubble Gift.<br>
 &nbsp; ME: A tacky reminder to stick a fork in it, or else socket."<br></i>
 
 ***
-#### SKILLS, KNOWLEDGE
+#### SKILLS AND KNOWLEDGE
 ***
 
 Nosology and diagnosis of mental disorders according to ICD-10, DSM-V, and psychoanalytic and psychodynamic criteria<br>
@@ -62,7 +64,7 @@ Fluent bilingualism and working Spanish proficiency<br>
 #### COURSES
 ***
 
-<b>Since September, 2019:</b><br>
+<b>Since September 2019:</b><br>
 
 <b>Codecademy</b>, Learn R Programming, Python, C++, SQL<br>
 <b>DataCamp</b>, Intermediate SQL, R for Data Science, Shell and Git for Data Science, Python for Data Science and Machine Learning, R and Python for Text Analysis<br>
