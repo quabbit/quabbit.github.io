@@ -14,7 +14,7 @@ I have designed numerous health assessment tools primarily for urban, low-income
 [Neurological Effect and Personality Triage Tool (NEP)](https://quabbit.github.io/tools/nep.md)
 [Rapid General Efficacy and Satisfaction Monitoring Tool (RGEMS)](https://quabbit.github.io/tools/rgems.md)
 
-I have also designed an adaptable exercise regimen which can also be freely utilized with attribution (Betito, 2020) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
+I have also designed an adaptable exercise regimen which can also be freely utilized with attribution (Betito, 2021) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
 
 [Personalized Body Morphology and Morphometry Maximization Protocol (PBMMMP)](https://quabbit.github.io/tools/pbmmmp.md)
 
