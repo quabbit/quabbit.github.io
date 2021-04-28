@@ -8,7 +8,7 @@
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
 ***
-[I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution.](https://quabbit.github.io/tools)
+[I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution.](https://quabbit.github.io/tools)<br>
 ***
 
 ***
@@ -84,5 +84,4 @@ Fluent bilingualism and working Spanish proficiency<br>
 ***
 ##### *[Br'er rabbit](https://www.britannica.com/topic/Brer-Rabbit)*
 
-<i>"Indeed, some rabbits make no serious attempt to cooperate with one."</i> - J. B. S. Haldane, <i>Possible Worlds</i>, Harper and Brothers, 1928<br>
-***
+<i>"Indeed, some rabbits make no serious attempt to cooperate with one."</i><br>- J. B. S. Haldane, <i>Possible Worlds</i>, Harper and Brothers, 1928<br>
