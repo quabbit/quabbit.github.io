@@ -54,3 +54,5 @@ FUNCTIONAL FITNESS
 Upper-body-to-lower-body ratio:
 	HIGHER Upper Body: Rope Climbs AND Dips AND Calisthenics
 	LOWER Upper Body: Freehand Exercises AND Mobile Exercises AND Strongman Exercises
+
+Betito, 2020. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
