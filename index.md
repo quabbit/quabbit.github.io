@@ -7,19 +7,17 @@
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
-***
 [I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution.](https://quabbit.github.io/tools)<br>
-***
 
 ***
 ##### If you are a literary agent interested in representation, I encourage you to contact me.
 ***
 
 ***
-#### PISSANT - NOVEL EXCERPT(S)
+#### <i>PISSANT</i> EXCERPT(S)
 ***
 
-<i>&nbsp; "I could request a bigger placard for levels of specificity--for the demand--but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset; the sort you have punctuating reruns and peeling stickers, which hardly peel cleanly, but need not necessarily. Take the saltatorial arms and legs to leap backwards away in time, and to push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the lines, points. But they come back, which defeats the purpose.<br>
+<i>&nbsp; "I could request a bigger placard for levels of specificity--for the demand--but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset; the sort punctuating reruns and peeling stickers, which hardly peel cleanly, but need not necessarily. Take the saltatorial arms and legs to leap backwards away in time, and to push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the lines, points. But they come back, which defeats the purpose.<br>
 &nbsp; JEAZINXSKY (BLOWIN’ STEAM): one, one <br>
 &nbsp; one, one	&nbsp; Utter boobery by-and-by, and no divinatory leaf had it coming. So why the rush.<br></i>
 
@@ -84,4 +82,4 @@ Fluent bilingualism and working Spanish proficiency<br>
 ***
 ##### *[Br'er rabbit](https://www.britannica.com/topic/Brer-Rabbit)*
 
-<i>"Indeed, some rabbits make no serious attempt to cooperate with one."</i><br>- J. B. S. Haldane, <i>Possible Worlds</i>, Harper and Brothers, 1928<br>
+<i>"Indeed, some rabbits make no serious attempt to cooperate with one."</i><br>&nbsp;- J. B. S. Haldane, <i>Possible Worlds</i>, Harper and Brothers, 1928<br>
