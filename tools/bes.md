@@ -14,10 +14,10 @@ PRIMARY QUESTIONS:
 
 SECONDARY QUESTIONS:
 
-1. Off the top of your head, what foods and drinks do you consume the most?
+1. Off the top of your head, which foods and drinks do you consume most often?
 QUANTITY and FREQUENCY
 
-2. Have your dietary habits changed recently? IF NOT, Do you consume the same kinds of foods and drinks daily? AND OR, Are your eating and drinking habits rather regular?
+2. Have your dietary habits changed recently? IF NOT, Do you consume similar foods and drinks every day? AND OR, Are your eating and drinking habits regular?
 IF YES, then ELABORATION
 
 3. Have you made any recent introductions or adjustments to your diet?
@@ -48,5 +48,5 @@ IF YES, SECONDARY PROBE for URINARY >> UTI
 
 4. OROPHARYNGEAL: Any problems with your mouth, with swallowing, or any burning sensation in this area? + MANUAL INDICATION OF ESOPHAGUS
 
-ORGAN + HIGH TEMPERATURE == DIFFUSE CNS
+Additionally, ORGAN + HIGH TEMPERATURE == DIFFUSE CNS
 
