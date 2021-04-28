@@ -33,8 +33,6 @@
 &nbsp; JEAZINXSKY: Maui Bubble Gift.<br>
 &nbsp; ME: A tacky reminder to stick a fork in it, or else socket."<br></i>
 
-<i>"Indeed, some rabbits make no serious attempt to cooperate with one."</i> - J. B. S. Haldane, <i>Possible Worlds</i>, Harper and Brothers, 1928<br>
-
 ***
 #### SKILLS, KNOWLEDGE
 ***
@@ -81,4 +79,6 @@ Fluent bilingualism and working Spanish proficiency<br>
 
 ***
 ##### *[Br'er rabbit](https://www.britannica.com/topic/Brer-Rabbit)*
+
+<i>"Indeed, some rabbits make no serious attempt to cooperate with one."</i> - J. B. S. Haldane, <i>Possible Worlds</i>, Harper and Brothers, 1928<br>
 ***
