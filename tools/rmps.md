@@ -59,3 +59,5 @@ Case example: A young adult male is presenting with injuries from a physical alt
 7. Treatment regimen:
 - Long-term medication regimen (>=1 month) (HIGHER)
 - Impairment-level dosages (MEDIUM)  
+
+Betito, 2020. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
