@@ -52,5 +52,4 @@ IF YES, SECONDARY PROBE for URINARY >> UTI
 
 Additionally, ORGAN + HIGH TEMPERATURE == DIFFUSE CNS
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
+Betito, 2020. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
