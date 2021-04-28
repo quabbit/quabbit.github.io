@@ -11,3 +11,5 @@ Progress: How satisfied are you with your progress, thus far? 1-10
 Expectations: How well has your access to treatment met your expectations? 1-10
 Goal-alignment: How well has your access to treatment aligned with your goals? 1-10
 Service-provision: How satisfied are you with the service you have received? 1-10
+
+Betito, 2020. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
