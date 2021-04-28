@@ -15,7 +15,7 @@ PRIMARY QUESTIONS:
 SECONDARY QUESTIONS:
 
 1. Off the top of your head, which foods and drinks do you consume most often?
-QUANTITY and FREQUENCY
+Establish QUANTITY and FREQUENCY
 
 2. Have your dietary habits changed recently? IF NOT, Do you consume similar foods and drinks every day? AND OR, Are your eating and drinking habits regular?
 IF YES, then ELABORATION
