@@ -20,7 +20,7 @@ I have designed numerous health assessment tools primarily for urban, low-income
 #### <i>PISSANT</i> EXCERPT(S)
 ***
 
-<i>&nbsp; "I could request a bigger placard for levels of specificity--for the demand--but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset; the sort punctuating reruns and peeling stickers, which hardly peel cleanly, but need not necessarily. Take the saltatorial arms and legs to leap backwards away in time, and to push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the lines, points. But they come back, which defeats the purpose.<br>
+<i>&nbsp; "I could request a bigger placard for levels of specificity--for the demand--but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset; the sort punctuating reruns and peeling stickers, which hardly peel cleanly, but need not necessarily. The saltatorial arms and legs to leap backwards away in time and push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the points. But they come back, which defeats the purpose.<br>
 &nbsp; JEAZINXSKY (BLOWIN’ STEAM): one, one <br>
 &nbsp; one, one	&nbsp; Utter boobery by-and-by, and no divinatory leaf had it coming. So why the rush.<br></i>
 
