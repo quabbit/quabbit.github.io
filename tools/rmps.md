@@ -2,6 +2,8 @@ Rapid Medical Personal Severity Triage Checklist (RMPS)
 
 P. A. E. (Paul) Betito BA MSW
 
+Version 2: Tuesday April 27 2021
+
 The RMPS is intended for brief assessment of needs for additional resources or support within medical decision-making contexts, but guided specifically by patient vocation. It requires that the clinician provide an informed judgment given the provided patient vocation, and thus it is predicated on reasonable awareness of minimum and prominent sources of medical distress and related and general disproportions of impact and expenditure.
 
 Minimum assumptions:
