@@ -2,7 +2,7 @@ Brief Evaluation for Symptomatology of Fungal, Bacterial, or Undifferentiated Pa
 
 P. A. E. (Paul) Betito BA MSW
 
-Version 2: Tuesday April 27 2021
+Version 2: April 27 2021
 
 The BES is intended as a short-form (five-minute) assessment tool for front-line health professionals for informing and supporting clinical determinations, initiating protocols, and performing general triage duties given compatible clinical features. The BES is particularly useful for NONSPECIFIC, UNPRECIPITATED, or CHRONIC concerns.
 
