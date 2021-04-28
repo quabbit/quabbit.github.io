@@ -12,6 +12,7 @@ I have designed numerous health assessment tools primarily for urban, low-income
 [Brief Evaluation for Symptomatology of Fungal, Bacterial, or Undifferentiated Pathogenic Exposures (BES)](https://quabbit.github.io/tools/bes.md)<br>
 [Rapid Medical Personal Severity Triage Checklist (RMPS)](https://quabbit.github.io/tools/rmps.md)<br>
 [Neurological Effect and Personality Triage Tool (NEP)](https://quabbit.github.io/tools/nep.md)
+[Rapid General Efficacy and Satisfaction Monitoring Tool (RGEMS)](https://quabbit.github.io/tools/rgems.md)
 
 ***
 ##### If you are a literary agent interested in representation, I encourage you to contact me.
