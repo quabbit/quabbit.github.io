@@ -2,7 +2,7 @@ Neurological Effect and Personality Triage Tool (NEP)
 
 P. A. E. (Paul) Betito BA MSW
 
-Version 2: Tuesday April 27 2021
+Version 2: April 27 2021
 
 The NEP is a tertiary, two-tier screening tool (<=90 seconds) for i) diffuse neural consequences and/or ii) focal neural pathologies, based on expected personality characteristics according to the OCEAN personality acronym/mnemonic. Apart from its primary clinical intent, it has largely the goals of facilitating personality assessment in medical terms, integrating personality dimensions for clinical prominence and relevance, and converting personality assessment to managable short-form usage. It has the additional intent to support the cultivation of doctor-patient alliance. It requires the application of sound clinical judgment.
 
