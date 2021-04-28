@@ -67,3 +67,5 @@ If prompted: 1.1. Sometimes how we define ourselves instinctively helps to clari
 	N/A - Inability or Confusion
 	N/A - Dismissal
 	HOSTILITY: No problem. That was my last question. I appreciate your patience.
+	
+Betito, 2020. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
