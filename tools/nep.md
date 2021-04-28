@@ -1,6 +1,6 @@
 Neurological Effect and Personality Triage Tool (NEP)
 
-Paul-André Elie Betito BA MSW
+P. A. E. (Paul) Betito BA MSW
 
 Version 2: Tuesday April 27 2021
 
