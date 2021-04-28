@@ -7,12 +7,18 @@
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
-I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution.
+I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution under a Creative Commons Attribution-ShareAlike 4.0 International license. 
 
 [Brief Evaluation for Symptomatology of Fungal, Bacterial, or Undifferentiated Pathogenic Exposures (BES)](https://quabbit.github.io/tools/bes.md)<br>
 [Rapid Medical Personal Severity Triage Checklist (RMPS)](https://quabbit.github.io/tools/rmps.md)<br>
 [Neurological Effect and Personality Triage Tool (NEP)](https://quabbit.github.io/tools/nep.md)
 [Rapid General Efficacy and Satisfaction Monitoring Tool (RGEMS)](https://quabbit.github.io/tools/rgems.md)
+
+I have also designed an adaptable exercise regimen which can also be freely utilized with attribution under a Creative Commons Attribution-ShareAlike 4.0 International license. 
+
+[Personalized Body Morphology and Morphometry Maximization Protocol (PBMMMP)](https://quabbit.github.io/tools/pbmmmp.md)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ***
 ##### If you are a literary agent interested in representation, I encourage you to contact me.
