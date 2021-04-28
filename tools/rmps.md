@@ -4,7 +4,7 @@ P. A. E. (Paul) Betito BA MSW
 
 Version 2: Tuesday April 27 2021
 
-The RMPS is intended for brief assessment of needs for additional resources or support within medical decision-making contexts, but guided specifically by patient vocation. It requires that the clinician provide an informed judgment given the provided patient vocation, and thus it is predicated on reasonable awareness of minimum and prominent sources of medical distress and related and general disproportions of impact and expenditure.
+The RMPS is intended for brief assessment of needs for additional supports or resources within medical decision-making contexts, but guided specifically by patient vocation. It requires that the clinician apply informed judgment given provided patient vocation, and thus it is predicated on reasonable awareness of minimum and prominent sources of medical distress and related and general disproportions of impact and expenditure.
 
 Minimum assumptions:
 - Hospital-based practice;
