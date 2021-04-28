@@ -1,8 +1,8 @@
-<b>Rapid Medical Personal Severity Triage Checklist (RMPS)</b>
+Rapid Medical Personal Severity Triage Checklist (RMPS)
 
-Paul-André Elie Betito BA MSW
+P. A. E. (Paul) Betito BA MSW
 
-The RMPS is intended for brief assessment of additional resource need, support, or counselling within medical decision-making contexts, guided specifically by patient vocation. It is predicated on reasonable awareness of minimum and prominent sources of medical distress and related and general disproportions of expenditure.
+The RMPS is intended for brief assessment of needs for additional resources or support within medical decision-making contexts, but guided specifically by patient vocation. It requires that the clinician provide an informed judgment given the provided patient vocation, and thus it is predicated on reasonable awareness of minimum and prominent sources of medical distress and related and general disproportions of impact and expenditure.
 
 Minimum assumptions:
 - Hospital-based practice;
@@ -12,17 +12,17 @@ Minimum assumptions:
 Minimum qualitative information: 
 - Nature of presentation; 
 - Time course;
-- Patient vocation (i.e., );
-- Disruption (immediate life circumstances) 
+- Patient vocation;
+- Disruption (immediate life circumstances).
 
 Thresholds:
 Above cut-off: Triage to desired resource
 Below cut-off: Proceed as usual
 
 Coding:
-HIGHER - 2
-MEDIUM - 1
-LOWER - 0
+HIGHER=2
+MEDIUM=1
+LOWER=0
 
 Case example: A young adult male is presenting with injuries from a physical altercation (2). He sustained a 1-inch, non-life-threatening puncture wound in the abdominal region (0), a concussion (1), a broken hand (2), a broken arm (0), and a broken knee (1). The patient plays professional hockey (1).
 
