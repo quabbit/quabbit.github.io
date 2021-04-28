@@ -8,7 +8,7 @@
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
 ***
-[I have designed numerous health assessment tools primarily for low-income or urban medicine which can be freely utilized with attribution.](https://quabbit.github.io/tools)
+[I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution.](https://quabbit.github.io/tools)
 ***
 
 ***
