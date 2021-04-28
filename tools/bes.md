@@ -26,7 +26,7 @@ IF YES, What exactly?
 OR, Any longstanding preferences?
 AND OR, Have you had any unique or unusual experiences with food lately?
 
-4. “Have you noticed any differences in your daily activities?
+4. Have you noticed any differences in your daily activities?
 IF YES, LESS DIFFICULTY or MORE DIFFICULTY 
 IF MORE DIFFICULTY, ELABORATION >> COURSE & DETAILS
 
