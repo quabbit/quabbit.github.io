@@ -7,6 +7,8 @@
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
+***
+
 I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution (Betito, 2020) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
 
 [Brief Evaluation for Symptomatology of Fungal, Bacterial, or Undifferentiated Pathogenic Exposures (BES)](https://quabbit.github.io/tools/bes.md)<br>
