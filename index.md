@@ -8,6 +8,8 @@
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
 ***
+##### My second novel is nearing completion, and if you are a literary agent interested in marketing prose from a fresh, original, under-thirty voice, I encourage you to contact me.
+***
 
 I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution (Betito, 2020) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
 
@@ -21,32 +23,6 @@ I have also designed an adaptable exercise regimen which can also be freely util
 [Personalized Body Morphology and Morphometry Maximization Protocol (PBMMMP)](https://quabbit.github.io/tools/pbmmmp.md)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-***
-##### If you are a literary agent interested in representation, I encourage you to contact me.
-***
-
-***
-#### <i>PISSANT</i> EXCERPT(S)
-***
-
-<i>&nbsp; "I could request a bigger placard for levels of specificity--for the demand--but sticklers and nigglers deserve the shapes they chip at and you tried, and who does not relish effort other than whomever feels incapable of it. Only strung fineprint in microscopic typeset; the sort punctuating reruns and peeling stickers, which hardly peel cleanly, but need not necessarily. The saltatorial arms and legs to leap backwards away in time and push further. Machines shift at warp and depart like what we suffered all along was difficulty reading between the points. But they come back, which defeats the purpose.<br>
-&nbsp; JEAZINXSKY (BLOWIN’ STEAM): one, one <br>
-&nbsp; one, one	&nbsp; Utter boobery by-and-by, and no divinatory leaf had it coming. So why the rush.<br></i>
-
-<i>.<br>
-&nbsp;	.<br>
-—VIM  &nbsp;  [circumlocutory vortex &nbsp;	, &nbsp;  v i s u a l  s n o w   ,  &nbsp;   wh o o  &nbsp;  o	&nbsp;]<br>
-&nbsp;	.<br>
-.</i><br>
-
-<i>&nbsp; HUM. Why the effrontery chucking wildcard the system way calling life like a night. That does not stand up. Nearly as spit-stupid as interloping political territory with an idea of where it ought to be. Stay back the line.<br>
-&nbsp; The problem is fragility. Wound together indefinitely and constitutive of corollaries; a striking, inimitable, lobular interdependence. Clad but vitiated by its own structure. Grids are pervious in and around the pistons; hence grid-ness, that quality, and dependence, that need. A grid would not exist without tender upkeep and the miracle of technicky Johnstons whose granitic, alienated scuttle twangs some latently termitophilic chord deep within me, how that feels. Bet they pinch loaves without warring with what it all means in the grand scheme. Bet they have not a second for the useless sound of it. Get tested by the sound of it. Mere cilia from the throttle.<br> 
-&nbsp; I think respect to it; directional brim furnishing hints of what was, could become, one end or the next. Imminence as a slippery flue accompanied by the eternal lament of some tradition to lace the gallery. I say on the whole, for the scene of mind--what its worth--fill it with molten product. Who should have what it is. Let shells spin their pipings into coiled, immortal parts as looking spindled together in last stops like ABSTRACT, OUTSTRETCHED. A piece of coral. Holy.<br>
-&nbsp; JEAZINXSKY (PER DE BOOK OF DUBERONOMY): Maui Waui?<br>
-&nbsp; ME: No. A token reminder.<br>
-&nbsp; JEAZINXSKY: Maui Bubble Gift.<br>
-&nbsp; ME: A tacky reminder to stick a fork in it, or else socket."<br></i>
 
 ***
 #### SKILLS AND KNOWLEDGE
