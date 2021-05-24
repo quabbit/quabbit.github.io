@@ -8,7 +8,7 @@
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
 ***
-##### My second novel is nearing completion, and if you are a literary agent interested in marketing prose from a fresh, original, under-thirty voice, I encourage you to contact me.
+<a href="https://books.apple.com/us/book/rattis/id1568626168?itscg=30200&amp;itsct=books_box_badge&amp;at=1000l36ze&amp;ct=books_rattis&amp;ls=1" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/get-it-on-apple-books/standard-black/en-us?size=250x83&amp;releaseDate=1621468800&h=af96338679f4e11976269da0110834b5" alt="Get it on Apple Books" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 ***
 
 I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution (Betito, 2020) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
