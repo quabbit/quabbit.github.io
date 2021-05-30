@@ -9,14 +9,14 @@
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
 
-I have designed numerous health assessment tools primarily for urban, low-income, and international medicine which can be freely utilized with attribution (Betito, 2020) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
+I have designed numerous health assessment tools for urban, low-income, and international medicine which can be freely utilized with attribution (Betito, 2020) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
 
 [Brief Evaluation for Symptomatology of Fungal, Bacterial, or Undifferentiated Pathogenic Exposures (BES)](https://quabbit.github.io/tools/bes.md)<br>
 [Rapid Medical Personal Severity Triage Checklist (RMPS)](https://quabbit.github.io/tools/rmps.md)<br>
 [Neurological Effect and Personality Triage Tool (NEP)](https://quabbit.github.io/tools/nep.md)<br>
 [Rapid General Efficacy and Satisfaction Monitoring Tool (RGEMS)](https://quabbit.github.io/tools/rgems.md)
 
-I have also designed an adaptable exercise regimen which can also be freely utilized with attribution (Betito, 2021) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
+I have also designed an adaptable exercise regimen which can be freely utilized with attribution (Betito, 2021) under a Creative Commons Attribution-ShareAlike 4.0 International license. 
 
 [Personalized Body Morphology and Morphometry Maximization Protocol (PBMMMP)](https://quabbit.github.io/tools/pbmmmp.md)
 
