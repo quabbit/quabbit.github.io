@@ -4,7 +4,7 @@
 
 [Email](mailto:paulandreb@tutanota.com) | [LinkedIn](https://www.linkedin.com/in/paulandreb/) | [DataCamp](https://www.datacamp.com/profile/paulandreb) | [Duolingo](https://www.duolingo.com/paulandre.b) | [ORCiD](https://orcid.org/0000-0003-0597-9177)<br>
 
-<a href="https://books.apple.com/us/book/rattis/id1568626168?itscg=30200&amp;itsct=books_box_badge&amp;at=1000l36ze&amp;ct=books_rattis&amp;ls=1" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/get-it-on-apple-books/standard-black/en-us?size=250x83&amp;releaseDate=1621468800&h=af96338679f4e11976269da0110834b5" alt="Get it on Apple Books" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
+[https://entelocius.com](https://entelocius.com)<br>
 
 <b>Master of Social Work (MSW)</b>, Health and Mental Health, University of Toronto<br>
 <b>Honours Bachelor of Arts with Distinction</b> in Psychology, Wilfrid Laurier University, 10.82 GPA
