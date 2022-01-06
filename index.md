@@ -26,10 +26,6 @@ I have also designed an adaptable exercise regimen which can be freely utilized 
 #### SKILLS AND KNOWLEDGE
 ***
 
-Nosology and diagnosis of mental disorders according to ICD-10, DSM-V, and psychoanalytic and psychodynamic criteria<br>
-Psychopharmacological interventions<br>
-Psychotherapeutic interventions such as psychodynamic, cognitive-behavioural, mindfulness-based, narrative, emotion-focused, and solution-focused<br>
-Verbal and nonverbal interviewing techniques<br>
 Knowledge of relevant legislation such as the Ontario Mental Health Act, the Substitute Decisions Act, the Personal Health Information Protection Act, and the Child, Youth and Family Services Act<br>
 Social determinants of health, anti-oppressive, empowerment, and feminist practice standards<br>
 Psychometric standards and protocols, including for valid electronic data capture, entry, and coding<br>
